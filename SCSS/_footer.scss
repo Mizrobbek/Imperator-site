@@ -1,0 +1,94 @@
+.footer {
+  &__section {
+    height: 323px;
+    background: #fff;
+  }
+
+  &__content {
+    display: flex;
+  }
+
+  &__section-title {
+    margin-left: 147px;
+    padding-top: 46px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+    font-feature-settings: "pnum" on, "lnum" on;
+    color: #000000;
+    margin-bottom: 16px;
+  }
+
+  &__sectionlist-text {
+    margin-left: 147px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    letter-spacing: 0.25px;
+    font-feature-settings: "pnum" on, "lnum" on;
+    color: #000000;
+    margin-bottom: 20px;
+    width: 255px;
+    height: 88px;
+  }
+
+  &__section-list-img {
+    margin-left: 147px;
+  }
+
+  &__section-list-two {
+    padding-top: 46px;
+    margin-left: 29px;
+  }
+
+  &__list {
+    margin-bottom: 38px;
+  }
+
+  &__section-list-title {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+    font-feature-settings: "pnum" on, "lnum" on;
+    color: #000000;
+    margin-bottom: 16px;
+  }
+
+  &__section-list-two-info {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    letter-spacing: 0.25px;
+    font-feature-settings: "pnum" on, "lnum" on;
+    color: #000000;
+    margin-bottom: 10px;
+  }
+
+  &__section-list-three {
+    padding-top: 46px;
+    margin-left: 205px;
+  }
+
+  &__section-list-three-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    letter-spacing: 0.25px;
+    font-feature-settings: "pnum" on, "lnum" on;
+    color: #000000;
+    margin-bottom: 10px;
+  }
+
+  &__menu {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+    font-feature-settings: "pnum" on, "lnum" on;
+  }
+}
